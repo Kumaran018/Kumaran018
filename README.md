@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=KUMARAN%20R%20P&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20(Django%20%26%20MERN)%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descAlign=50&fontColor=ffffff" width="850" alt="Kumaran R P Banner"/>
+# 👨‍💻 KUMARAN R P
+### Full Stack Developer (Django & MERN) • AI & Data Science Undergrad
+*Coimbatore, Tamil Nadu, India*
+
 
 <br/>
 
