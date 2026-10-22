@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 KUMARAN R P
-### Full Stack Developer (Django & MERN) • AI & Data Science Undergrad
+### Full Stack Developer (Django & MERN) • AI & Data Science Undergraduate
 *Coimbatore, Tamil Nadu, India*
 
 
